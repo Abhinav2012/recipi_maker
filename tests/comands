@@ -1,0 +1,2 @@
+python -m fastapi dev personal_id.py
+python -m streamlit run app.py
