@@ -1,13 +1,16 @@
-Item,Quantity
-Tur Dal,20
-Rice,250
-patato,2
-tomato,200
-garam masala,20
-salt,100
-black pepper,100
-coriander,150
-Chilli flakes,150
-onions,150
-eggs,15
-milk,15
+Item,Quantity,Metric
+Tur Dal,20,g
+Rice,25,kg
+patato,2,dozen
+tomato,20,pcs
+garam masala,20,g
+salt,100,g
+black pepper,100,g
+coriander,150,g
+Chilli flakes,150,g
+onions,15,pcs
+eggs,15,pcs
+milk,15,ltr
+Chana Dal,2,kg
+peas,1,kg
+ghee,3,g
